@@ -1,1 +1,2 @@
 # m10-hw12-zaleski-abigail
+I did not come across too many issues while completing this assignment. I was able to follow the lecture video on E6 Classes and complete the required tests without much issue. I did have to look up the correct way to use the setTimeout method. When pulling my page up using the live server, it satisfies all 21 tests, however when I open the page using GitHub pages, it indicates that my performMaintenance function method is not working properly.
